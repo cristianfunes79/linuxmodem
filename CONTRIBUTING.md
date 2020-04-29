@@ -4,5 +4,7 @@ Tambien se puede enviar un mail a cualquiera de los contribuidores informando el
 
 # Contribuidores
 Juan Leandro Zorrillo - mail: juanleandro.zorrilla@gmail.com
+
 Cristian Funes  - mail: cristianfunes79@gmail.com
+
 Hermann Herbst  - mail: hermann.von.herbst@gmail.com
