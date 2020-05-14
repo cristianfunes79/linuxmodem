@@ -1,4 +1,4 @@
-# [Modem IoT 4G de uso general] FIXME: Definir nombre
+# [Modem IoT 4G de uso general] [//]: FIXME: Definir nombre
 ## Que es un [modem para IoT]? FIXME: Cambiar por el nuevo nombre
 
 Es un modem pensado para aplicaciones tipicas de Internet of Things, donde se requiere enviar y recibir datos hacia y desde internet.
